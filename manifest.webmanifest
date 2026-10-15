@@ -1,0 +1,16 @@
+{
+  "name": "Sabores de Oriente y Occidente",
+  "short_name": "Sabores",
+  "description": "Recetario familiar de Luz Mary Wabi Hauayek de Curi",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4ead3",
+  "theme_color": "#f4ead3",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
